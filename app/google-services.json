@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222703606144",
+    "project_id": "sendotp-2bab2",
+    "storage_bucket": "sendotp-2bab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222703606144:android:c561caf485558776984965",
+        "android_client_info": {
+          "package_name": "com.example.sendotpactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222703606144-nngsjbqrutcs7pgnnbi88ks1sr8kvhkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sendotpactivity",
+            "certificate_hash": "e06e8db4ee45fb8c68a3bb41e2d09f1ddf3eaafc"
+          }
+        },
+        {
+          "client_id": "222703606144-ndaqskm2rm2ohhu4j3fgtt001bm695pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDquUaL4ZpOxxG_VXFWKU6Y83E9OurWIdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222703606144-ndaqskm2rm2ohhu4j3fgtt001bm695pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
